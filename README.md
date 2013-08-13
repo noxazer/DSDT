@@ -9,24 +9,29 @@ I. Modifications d'objets :
 
 II. Avancement des améliorations :
 
-- [100%] Convertion de GFX0 (0x00020000 Fichier A) en IGP.
+- [100%] Convertion de GFX0 (0x00020000) en IGP.
 - [100%] Fonction RPUN && SPUN (Rev.2)
 - [100%] Fonction ECCM && Q12O && PINI (Rev.2)
-- [+] Correction de bugs mineurs (Rev.2)
+- [100%] Fonction SMCD (Rev.2)
+- [100%] Convertion de IDE0 (0x001F0002) en SATA.
+      -               [100%] Convertion de CHN0 en PRT0.
+- [100%] Modification de TACH (Rev.3)
+- [+] Correction de bugs mineurs (Rev.3)
 - [+] Patch de correctif
       -               [100%] Convertion de _T_* en TT_*
       -               [100%] Fonction DTG
       -               [100%] Fonction B1B2
       -               [100%] Fonction SMBUS
       -               [100%] Correctif _PRW dans AC0
-      -               [100%] Correctif _DSM dans HDEF           (Alc269, hda-gfx)
-      -               [100%] Correctif _DSM dans GFX0           (HD3000, hda-gfx)
-      -               [100%] Correctif IRQs Flags                 (Sandy Bridge)
-      -               [100%] Correctif RTC                      (??, Sandy Bridge)
-      -               [100%] Correctif Backlight                     (PNLF)
-      -               [100%] Correctif _CID dans HPET               (PNP0C01)
-      -               [100%] Fonction EMEI && MCHC           (EMEI && MCHC -> PCI0)
-      -               [100%] Correctif _DSM dans EHC1 && ECH2   (USB MacBookP8.1)
-      -               [100%] Correctif _DSM dans UHCI           (USB MacBookP8.1)
+      -               [100%] Correctif _DSM dans HDEF
+      -               [100%] Correctif _DSM dans GFX0
+      -               [100%] Correctif IRQs Flags
+      -               [100%] Correctif RTC
+      -               [100%] Correctif Backlight
+      -               [100%] Correctif _CID dans HPET
+      -               [100%] Fonction EMEI && MCHC
+      -               [100%] Correctif _DSM dans EHC1 && ECH2
+      -               [100%] Correctif _DSM dans UHCI
       -               [100%] Convertion de AC0 en ADP1 
+      -               [100%] Correctif LID + PBFE
 - [-] Fonction _REG (Rev.1).
