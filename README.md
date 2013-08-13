@@ -9,5 +9,5 @@ Retrait = [-].
 
 Modifications d'objets :
 
-  [+] README.
-  [+] DSDT original.
+README                                                                        __________________[+].
+DSDT original                                                                 __________________[+].
