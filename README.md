@@ -1,11 +1,10 @@
-
                         Amélioration de mon DSDT | ASUS K73SD (2450M, ALC269, Optimus, HD3000).
 
 I. Modifications d'objets :
 
-- [+] README
-- [+] DSDT origina
-- [+] DSDT contenant la désactivation d'Optimus               (GFX0 -> IGPU)
+- [+] README.
+- [+] DSDT original.
+- [+] DSDT contenant la désactivation d'Optimus. (GFX0 -> IGPU)
 
 
 II. Avancement des améliorations :
@@ -30,4 +29,4 @@ II. Avancement des améliorations :
       -               [100%] Correctif _DSM dans EHC1 && ECH2   (USB MacBookP8.1)
       -               [100%] Correctif _DSM dans UHCI           (USB MacBookP8.1)
       -               [100%] Convertion de AC0 en ADP1 
-- [-] Fonction _REG (Rev.1)
+- [-] Fonction _REG (Rev.1).
