@@ -9,7 +9,7 @@ I. Modifications d'objets :
 
 II. Avancement des améliorations :
 
-- [100%] Convertion de GFX0 (0x00020000) en IGP.
+- [100%] Convertion de GFX0 (0x00020000) en IGPU.
 - [100%] Fonction RPUN && SPUN (Rev.2)
 - [100%] Fonction ECCM && Q12O && PINI (Rev.2)
 - [100%] Fonction SMCD (Rev.2)
